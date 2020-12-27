@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miyaisen.github.io</id>
     <title>宮城miyaisen</title>
-    <updated>2020-11-08T05:47:43.156Z</updated>
+    <updated>2020-12-27T01:50:51.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miyaisen.github.io"/>
     <link rel="self" href="https://miyaisen.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://miyaisen.github.io/images/avatar.png</logo>
     <icon>https://miyaisen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 宮城miyaisen</rights>
+    <entry>
+        <title type="html"><![CDATA[疾病的痛楚]]></title>
+        <id>https://miyaisen.github.io/post/ji-bing-de-tong-chu/</id>
+        <link href="https://miyaisen.github.io/post/ji-bing-de-tong-chu/">
+        </link>
+        <updated>2020-12-27T01:23:25.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>一年之前，我就能常常“闻”到一些奇怪的味道，也没大在意。但是从2020年10月开始，我经常头疼头晕。10月29日，依据海马MRI，我被确诊为颞叶癫痫，开始服用药物进行治疗，虽然最好的治疗方案是做开颅手术，切除病灶。
+后来，我根据神经内科医生的建议去医学心理科看病，得知我还有抑郁症和精神分裂症，于是我开始同时服用癫痫和精神方面的药物进行治疗。
+可是，谁还知道三年之前我的尾椎部位只要站久了或平躺着睡觉，尾椎部位以及上半身就会有刺痛。一年之前又开始咳嗽，呼吸时还有可能会伴有肺部的刺痛，对，就是在一段时间里只要你呼吸就会有刺痛。种种现象表明我还有可能是脊椎结核或腰椎间盘突出。
+为什么，为什么会这样！！！这些病的痛苦压在我身上，把我压垮的站不起来！！！我想要去死，我相信只有这样才能摆脱痛苦。谁都不能理解我，除了我自己，甚至连我的家人们都理解不了我的痛苦！！！这真是太令人失望了，我活在这世界上还有什么意义呢？</code></pre>
+]]></content>
+    </entry>
 </feed>
