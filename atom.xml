@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miyaisen.github.io</id>
     <title>宮城miyaisen</title>
-    <updated>2020-12-27T05:06:24.324Z</updated>
+    <updated>2020-12-27T05:45:10.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miyaisen.github.io"/>
     <link rel="self" href="https://miyaisen.github.io/atom.xml"/>
@@ -10,6 +10,14 @@
     <logo>https://miyaisen.github.io/images/avatar.png</logo>
     <icon>https://miyaisen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 宮城miyaisen</rights>
+    <entry>
+        <title type="html"><![CDATA[我制作的视频]]></title>
+        <id>https://miyaisen.github.io/post/wo-zhi-zuo-de-shi-pin/</id>
+        <link href="https://miyaisen.github.io/post/wo-zhi-zuo-de-shi-pin/">
+        </link>
+        <updated>2020-12-27T05:43:45.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=99228856&bvid=BV15741117go&cid=169559016&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疾病的痛楚]]></title>
         <id>https://miyaisen.github.io/post/ji-bing-de-tong-chu/</id>
