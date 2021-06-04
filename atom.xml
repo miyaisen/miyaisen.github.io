@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miyaisen.github.io</id>
     <title>宮城miyaisen</title>
-    <updated>2021-06-04T04:58:43.043Z</updated>
+    <updated>2021-06-04T05:04:12.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miyaisen.github.io"/>
     <link rel="self" href="https://miyaisen.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://miyaisen.github.io/images/avatar.png</logo>
     <icon>https://miyaisen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 宮城miyaisen</rights>
+    <entry>
+        <title type="html"><![CDATA[的]]></title>
+        <id>https://miyaisen.github.io/post/de/</id>
+        <link href="https://miyaisen.github.io/post/de/">
+        </link>
+        <updated>2021-06-04T05:02:36.000Z</updated>
+        <content type="html"><![CDATA[<p>![avatar](\Users\lenovo\Downloads\BoardingPass_MyNameOnFutureMission (1).png)</p>
+]]></content>
+    </entry>
 </feed>
