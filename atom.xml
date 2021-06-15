@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miyaisen.github.io</id>
     <title>宮城miyaisen</title>
-    <updated>2021-06-04T05:04:43.391Z</updated>
+    <updated>2021-06-15T07:00:23.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miyaisen.github.io"/>
     <link rel="self" href="https://miyaisen.github.io/atom.xml"/>
@@ -11,12 +11,34 @@
     <icon>https://miyaisen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 宮城miyaisen</rights>
     <entry>
-        <title type="html"><![CDATA[的]]></title>
-        <id>https://miyaisen.github.io/post/de/</id>
-        <link href="https://miyaisen.github.io/post/de/">
+        <title type="html"><![CDATA[遗憾]]></title>
+        <id>https://miyaisen.github.io/post/regret/</id>
+        <link href="https://miyaisen.github.io/post/regret/">
         </link>
-        <updated>2021-06-04T05:02:36.000Z</updated>
-        <content type="html"><![CDATA[<p>![avatar](\Users\lenovo\Downloads\BoardingPass_MyNameOnFutureMission (1).png)</p>
+        <updated>2021-06-15T06:06:03.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>明天中考了</strong></em><br>
+想到中考结束以后，大家见面的机会少了，难免有些悲伤。再想到我喜欢的人，从初二就开始喜欢她了，她可能早已从我的种种言行中看出来了吧，也有可能还不知道。来不及向她表白，却要面临着这分别的悲伤。朝思暮想，最终她可能都不知道我喜欢她，而我却仍沉浸在自己的幻想中。<br>
+我喜欢她的待人之道，也许别人认为她并不是多么的漂亮，总之在我看来，她是我们班上最美的一个女生，这可能就是所谓的“情人眼里出西施”吧。<br>
+周鸣其实是第一个猜对我喜欢谁的，姜熙恩是第二个猜对的。不过，我对于他们的猜测，虽说是否定了，但不妨看出来仍有漏洞。他们问我是否喜欢其他人时，我都是回答“不是”或者说“真的不是”，语气非常坚定，唯有问到她时，我说“怎么可能”或“放屁”。<br>
+她成绩和我相似，其实我俩很有可能就上一所学校。不过，我有我的打算，她有她的心愿，终究还是不能在同一所高中学习。常联系吧，希望她不要忘了我，不要忘了我们四十万的交情。<br>
+很快放假了，我问她想去哪里玩，她说想去上海看漫展，倘若她真的去的话，那我说什么都要跟她一块儿去逛漫展！！！真希望暑假能多跟她玩会儿，想再多看看她......<br>
+初中时期最大的遗憾莫过于此了，遇上了一个真正喜欢的女孩子，因为自己内心的害怕，不敢跟她表白。你快不常见到她了啊徐谦！！！怎么会这样子？鼓起勇气来好吗？振作起来，向她表白吧，乘着合适的时机......<br>
+爱与恐惧，何去何从，全权掌握在你自己手中啊！！！<br>
+愿原力与你同在。May the force be with you.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记21年5月2日出游]]></title>
+        <id>https://miyaisen.github.io/post/210502holiday/</id>
+        <link href="https://miyaisen.github.io/post/210502holiday/">
+        </link>
+        <updated>2021-05-02T13:51:28.000Z</updated>
+        <content type="html"><![CDATA[<p>凌晨5点就早早起床赶6:20的高铁了，又在常州换乘列车，最终到达无锡火车站。但这都不是重点，最重要的是我从常州乘坐D2281前往无锡时，竟然偶遇上海局南京动车段的CR300BF，并且还是8节编组重联成16节编组的，铁汁们！复兴号跑动车可不常见啊！！！欧气满满！<br>
+<img src="https://miyaisen.github.io/post-images/1623740132204.JPG" alt="帅哥遇上“蓝暖男”" loading="lazy"><br>
+到了无锡后又转地铁转公交，忙了个把小时才到灵山，累死了。好在灵山的斋饭还不错呢，嘻嘻嘻<br>
+<img src="https://miyaisen.github.io/post-images/1623740328823.JPG" alt="" loading="lazy"><br>
+晚上又赶去苏州，到了猫空书店，买了好多明信片，可开心了呢。<br>
+一天就这么愉快地结束啦。</p>
 ]]></content>
     </entry>
 </feed>
